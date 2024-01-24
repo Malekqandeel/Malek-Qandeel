@@ -1,4 +1,6 @@
-## Hi There! ![wave](<img src=<[MY_GIF](https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif)>  height="50">)
+## Hi There! :wave:
+
+<img src="https://res.cloudinary.com/dclv1d64c/image/upload/v1706097459/Black_Gradient_Minimalist_Corporate_Business_Personal_Profile_New_LinkedIn_Banner_1_vdtczq.png" />
 
 
 ## :rocket: About me
