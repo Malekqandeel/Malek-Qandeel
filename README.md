@@ -2,15 +2,28 @@
 
 <img src="https://res.cloudinary.com/dclv1d64c/image/upload/v1706097459/Black_Gradient_Minimalist_Corporate_Business_Personal_Profile_New_LinkedIn_Banner_1_vdtczq.png" />
 
+<a href="www.linkedin.com/in/malik-qandeel">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+
 
 ## :rocket: About me
 
-I am Malek Qandeel, a full-stack developer. Coding is my life! getting passionate when I applied everything I learned in web development.
+<div>
+  <p>
+  I am Malek Qandeel, a full-stack developer. Coding is my life! getting passionate when I applied everything I learned in web development.
 
-:computer: currently working in CX department.
+  :computer: currently working in CX department.
+    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+
+  </p>
+
+</div>
+
+
 
 ## :bulb: Skills
 
+  
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
@@ -29,11 +42,13 @@ I am Malek Qandeel, a full-stack developer. Coding is my life! getting passionat
 ### Database 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" hight="50" />
 
 ## My GitHub Status
 
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=malekqandeel)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 
 
 
