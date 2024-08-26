@@ -71,6 +71,7 @@
 ![Elasticsearch Badge](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=fff&style=for-the-badge)
 ![Beats Badge](https://img.shields.io/badge/Beats-005571?logo=beats&logoColor=fff&style=for-the-badge)
 ![Kibana Badge](https://img.shields.io/badge/Kibana-005571?logo=kibana&logoColor=fff&style=for-the-badge)
+![Meilisearch Badge](https://img.shields.io/badge/Meilisearch-FF5CAA?logo=meilisearch&logoColor=fff&style=for-the-badge)
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" hight="50" />
