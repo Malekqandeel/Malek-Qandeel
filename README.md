@@ -60,6 +60,7 @@
 ![Firebase Badge](https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=fff&style=for-the-badge)
 ![CodePen Badge](https://img.shields.io/badge/CodePen-000?logo=codepen&logoColor=fff&style=for-the-badge)
 ![CodeSandbox Badge](https://img.shields.io/badge/CodeSandbox-151515?logo=codesandbox&logoColor=fff&style=for-the-badge)
+![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=fff&style=for-the-badge)
 
 ### Database 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
