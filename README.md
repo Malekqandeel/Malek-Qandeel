@@ -2,7 +2,9 @@
 
 <img src="https://res.cloudinary.com/dclv1d64c/image/upload/v1706097459/Black_Gradient_Minimalist_Corporate_Business_Personal_Profile_New_LinkedIn_Banner_1_vdtczq.png" />
 
-<a href="www.linkedin.com/in/malik-qandeel">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/malik-qandeel">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+
 
 
 
