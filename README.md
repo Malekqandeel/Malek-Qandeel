@@ -59,7 +59,7 @@
 ![Mongoose Badge](https://img.shields.io/badge/Mongoose-F04D35?logo=mongoosedotws&logoColor=fff&style=for-the-badge)
 
 ### Testing 
-<img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=flat-square" alt="Jest Badge">
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=flat-square )
 
 ### SuperTools
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
