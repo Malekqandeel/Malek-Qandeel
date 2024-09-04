@@ -58,6 +58,9 @@
 ![TypeORM Badge](https://img.shields.io/badge/TypeORM-FE0803?logo=typeorm&logoColor=fff&style=for-the-badge)
 ![Mongoose Badge](https://img.shields.io/badge/Mongoose-F04D35?logo=mongoosedotws&logoColor=fff&style=for-the-badge)
 
+### Testing 
+<img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=flat-square" alt="Jest Badge">
+
 ### SuperTools
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
