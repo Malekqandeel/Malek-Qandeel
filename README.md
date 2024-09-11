@@ -60,6 +60,7 @@
 
 ### Testing & QA
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=flat-square )
+<img src="https://img.shields.io/badge/SonarLint-CB2029?logo=sonarlint&logoColor=fff&style=for-the-badge" alt="SonarLint Badge">
 
 ### SuperTools
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
