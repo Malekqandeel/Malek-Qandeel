@@ -60,7 +60,6 @@
 
 ### Testing & QA
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=flat-square )
-<img src="https://img.shields.io/badge/SonarLint-CB2029?logo=sonarlint&logoColor=fff&style=for-the-badge" alt="SonarLint Badge">
 
 ### SuperTools
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
@@ -71,6 +70,8 @@
 ![CodePen Badge](https://img.shields.io/badge/CodePen-000?logo=codepen&logoColor=fff&style=for-the-badge)
 ![CodeSandbox Badge](https://img.shields.io/badge/CodeSandbox-151515?logo=codesandbox&logoColor=fff&style=for-the-badge)
 ![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=fff&style=for-the-badge)
+![SonarLint Badge](https://img.shields.io/badge/SonarLint-CB2029?logo=sonarlint&logoColor=fff&style=for-the-badge)
+
 
 ### Database 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
