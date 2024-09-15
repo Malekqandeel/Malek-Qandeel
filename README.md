@@ -7,7 +7,6 @@
 
 
 
-
 ## :rocket: About me
 
 <div>
