@@ -70,6 +70,7 @@
 ![CodeSandbox Badge](https://img.shields.io/badge/CodeSandbox-151515?logo=codesandbox&logoColor=fff&style=for-the-badge)
 ![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=fff&style=for-the-badge)
 ![SonarLint Badge](https://img.shields.io/badge/SonarLint-CB2029?logo=sonarlint&logoColor=fff&style=for-the-badge)
+<img src="https://img.shields.io/badge/FileZilla-BF0000?logo=filezilla&logoColor=fff&style=for-the-badge" alt="FileZilla Badge">
 
 
 ### Database 
