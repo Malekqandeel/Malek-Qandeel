@@ -56,6 +56,7 @@
 ![JSON Web Tokens Badge](https://img.shields.io/badge/JSON%20Web%20Tokens-000?logo=jsonwebtokens&logoColor=fff&style=for-the-badge)
 ![TypeORM Badge](https://img.shields.io/badge/TypeORM-FE0803?logo=typeorm&logoColor=fff&style=for-the-badge)
 ![Mongoose Badge](https://img.shields.io/badge/Mongoose-F04D35?logo=mongoosedotws&logoColor=fff&style=for-the-badge)
+<img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff&style=for-the-badge" alt="Flask Badge">
 
 ### Testing & QA
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=flat-square )
