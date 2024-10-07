@@ -59,6 +59,7 @@
 
 ### Testing & QA
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=flat-square )
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=fff&style=for-the-badge" alt="Pytest Badge">
 
 ### SuperTools
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
@@ -71,6 +72,7 @@
 ![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=fff&style=for-the-badge)
 ![SonarLint Badge](https://img.shields.io/badge/SonarLint-CB2029?logo=sonarlint&logoColor=fff&style=for-the-badge)
 <img src="https://img.shields.io/badge/FileZilla-BF0000?logo=filezilla&logoColor=fff&style=for-the-badge" alt="FileZilla Badge">
+<img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=for-the-badge" alt="Jupyter Badge">
 
 
 ### Database 
